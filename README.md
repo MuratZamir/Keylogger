@@ -11,5 +11,5 @@
 
 Run the program
 ```
-python run_keylogger.py
+python3 run_keylogger.py
 ```
