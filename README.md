@@ -1,6 +1,6 @@
 # Keylogger
 
-* This local keylogger will come in handy while annoying neighbor's child is playing with your computer. 
+* This local keylogger will come in handy while neighbor's annoying child is playing with your computer. 
 * In order to run it locally, you have to make slight changes.
 
 * Just edit the run_keylogger.py file as shown below
