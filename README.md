@@ -1,5 +1,4 @@
 # Keylogger
-self-made local keylogger
 
 * This local keylogger will come in handy while annoying neighbor's child is playing with your computer. 
 * In order to run it locally, you have to make slight changes.
